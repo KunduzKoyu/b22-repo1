@@ -1,1 +1,4 @@
 B22 Learning Git
+
+Comit is almost like taking a picture of the changes at certain moment compared to previous moment
+it containc the changes you made and the author of the changes.
